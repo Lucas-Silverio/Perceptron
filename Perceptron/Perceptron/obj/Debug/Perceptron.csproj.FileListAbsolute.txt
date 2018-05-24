@@ -1,0 +1,7 @@
+D:\LucasADS\IA\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+D:\LucasADS\IA\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+D:\LucasADS\IA\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+D:\LucasADS\IA\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+D:\LucasADS\IA\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+D:\LucasADS\IA\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+D:\LucasADS\IA\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
